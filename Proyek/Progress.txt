@@ -1,0 +1,50 @@
+1. udah bisa
+- run
+- set api unggun dengan 2
+- ubah Waktu dengan 1
+- sneek
+- blur di daun pohon dan bush
+- burning efek jika terkena api
+
+2. udah bisa
+- menggunakan lagu
+- melakukan item interaction
+- menambahkan ambience horror jika campfire mati
+- mengambil item stick dan masuk ke inventory
+- menggunakan stick inventory untuk menyalakan api unggun
+
+3. udah bisa
+- 3d model dari stick dan suara saat diinjak
+- 3d model senter dan sudah bisa pakai senter dan suaranya
+- optimasi
+- menambahkan 3d model tas dan jika diambil menambahkan 3 inventory baru
+
+4. udah bisa
+- Memunculkan 3D Model tung tung sahur dan membuat pergerakannya (bisa mengejar player)
+- Mengatur kemunculan tung tung saat api padam dan pada saat malam hari
+- Tung tung akan berusaha mengejar player
+- Audio tung tung diputar saat player mendekati tung tung atau saat tung tung mendekat ke player
+- Memunculkan 3D Model "Benda Keramat"
+
+5. udah bisa 
+- Memunculkan health bar UI sekaligus textnya dari health player saat ini dan total healthnya berapa
+- Nyawa player akan berkurang jika terkena pukulan dari tung tung sahur
+- Mengatur nyawa yang apabila nyawa player habis, maka muncul tulisan "Game Over" dan permainannya akan dimulai lagi dari awal
+- Mengatur kemunculan 3D Model "Benda Keramat" hanya pada saat malam hari
+- Mengatur posisi dan lokasi dari "Benda Keramat" tersebut bersifat random (acak)
+- Mengatur kemenangan apabila player berhasil menemukan "Benda Keramat" tersebut sebelum nyawanya habis 
+- Memunculkan tulisan "You Win" apabila player berhasil menemukan "Benda Keramat" tersebut
+
+
+CATATAN
+- untuk dapat 3D model pakai meshy.ai
+
+YANG UDAH ADA
+- Senter -> bisa nyala mati dengan suara
+- Api unggun -> nyala mati dan menentukan lagu tema
+- Tas -> bisa menambah penyimpanan dan memiliki suara saat dipakai
+- Pohon Semak -> dapat memburamkan layer menjadi hijau
+- Stick -> bisa diambil dan dilempar ke Api Unggun, akan bunyi saat diinjak
+- Tung Tung Sahur -> bisa dilihat di assets dengan nama Choco Character di dalam folder tungtung2 dan sudah bisa mengejar player
+- Benda Keramat -> bisa memunculkan bendanya hanya pada malam hari saja serta bisa mengatur posisi dan lokasinya secara random. Bisa dilihat pada folder 3d assets bernama Doll With Note
+
